@@ -1,4 +1,4 @@
-# [AlexanderGurnet.github.io](https://alexandergurnet.github.io/)
+# [AlexanderGurnet.github.io](https://alexandergurnet.github.io/index.html)
 
 version 0.0.1
 
